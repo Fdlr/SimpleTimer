@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ButtonView">
+        <attr name="icon" format="reference" />
+        <attr name="IsSmall" format="boolean"/>
+        <attr name="IsMedium" format="boolean"/>
+        <attr name="IsLarge" format="boolean"/>
+    </declare-styleable>
+</resources>
